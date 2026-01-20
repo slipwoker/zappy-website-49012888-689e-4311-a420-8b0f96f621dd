@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://erranzz-49012888.zappy5.app/sitemap.xml

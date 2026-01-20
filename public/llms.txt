@@ -1,0 +1,57 @@
+# Erranzz — Generative Engine Optimization Map
+
+> A local services marketplace business.
+
+---
+
+## Pages
+
+### Home
+https://erranzz-49012888.zappy5.app
+Discover expert closet organization and local services that connect homeowners with trusted providers. Schedule, pay, and review all in one place.
+
+### Services
+https://erranzz-49012888.zappy5.app/services
+Professional Publix grocery store shopping, closet organization, and home task services. Connect with verified providers for all your errands and home needs.
+
+### About
+https://erranzz-49012888.zappy5.app/about
+Learn about Erranzz, the trusted marketplace connecting homeowners with professional service providers for closet organization, errands, and tasks at home.
+
+### Contact
+https://erranzz-49012888.zappy5.app/contact
+Contact Erranzz for closet organization, errands, and home services. Connect with our team to get started with professional providers today.
+
+## Legal & Policy
+
+### Privacy Policy
+https://erranzz-49012888.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://erranzz-49012888.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://erranzz-49012888.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Erranzz
+Erranzz is a business in the local services marketplace industry.
+
+## Target Audience
+homeowners and service providers
+
+## Industry
+local services marketplace
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://erranzz-49012888.zappy5.app/sitemap.xml
+- **Robots.txt**: https://erranzz-49012888.zappy5.app/robots.txt
